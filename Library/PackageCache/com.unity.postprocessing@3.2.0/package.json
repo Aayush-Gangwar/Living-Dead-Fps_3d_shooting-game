@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.postprocessing",
+  "version": "3.2.0",
+  "displayName": "Post Processing",
+  "unity": "2019.4",
+  "unityRelease": "19f1",
+  "description": "The post-processing stack (v2) comes with a collection of effects and image filters you can apply to your cameras to improve the visuals of your games.",
+  "dependencies": {
+    "com.unity.modules.physics": "1.0.0"
+  },
+  "upmCi": {
+    "footprint": "9ac4a561950018d0d5cb3c7f3598297e7e7f7d4c"
+  },
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/Graphics.git",
+    "type": "git",
+    "revision": "b0e3273299e678bccb11e08d28c49d481c731c7e"
+  }
+}
