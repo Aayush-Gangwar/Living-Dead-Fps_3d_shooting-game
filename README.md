@@ -89,5 +89,5 @@ Developed with Unity 2020.3.24f1.
 |Throw Grenade    |  G                      |
 
 ## Installation
-- Install the game from [Living Dead](https://github.com/wahabjawed/Space-Shooter-Game#index)
+- Install the game from [Living Dead](https://aayush21.itch.io/living-dead)
     and Enjoy!!
