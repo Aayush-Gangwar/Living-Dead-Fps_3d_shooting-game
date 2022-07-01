@@ -21,7 +21,7 @@ Developed with Unity 2020.3.24f1.
 
 ## Game Features
 * User Interface-for all features.
-   * <img src="https://user-images.githubusercontent.com/101112022/176936728-722c1085-63b7-458e-b47d-6bc2da399cbf.png" style="width:500px"></img>
+    <img src="https://user-images.githubusercontent.com/101112022/176936728-722c1085-63b7-458e-b47d-6bc2da399cbf.png" style="width:500px"></img>
 * Game interface
   * **Player's HP** on the top left corner
   * The **message panel** on the bottom left corner, which shows status of other players (e.g. dead or respawn)
