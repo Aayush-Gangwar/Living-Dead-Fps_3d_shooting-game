@@ -17,7 +17,16 @@ Developed with Unity 2020.3.24f1.
 - Enemies health will recharge after heeling time ..if left unattacked.
 - Headshot or Eyeshot will give extra damage to enemies.
 - Ammo pickups for guns and medikit pickup for the players health are available at certain places in the map.
-- Two guns are available, Pistol, Machine gun (have different attack range) and grenades with some pre-loaded bullets. To change between guns, use the scroller of your mouse.
+- Two guns are available, Pistol, AK-47 (have different attack range) and grenades with some pre-loaded bullets. To change between guns, use the scroller of your mouse.
+
+## Game Features
+* Game interface
+  * **Player's HP** on the top left corner
+  * The **message panel** on the bottom left corner, which shows status of other players (e.g. dead or respawn)
+  * A **gun (AK-47)** is always shown on the bottom right corner in front of every thing you can see
+  * A red **shooting sight** is always in the center of the screen
+  <img src="Images/3.jpg" style="width:500px"></img>
+
 
 ## Controls ##
 
@@ -27,6 +36,7 @@ Developed with Unity 2020.3.24f1.
 | Move Left       | A                       |
 | Move Backward   | S                       |
 | Move Right      | D                       |
+| Jump            |  space                  |
 | Run             | Left Shift(hold)        |
 | Shoot           | Mouse Left Button       |
 | Aim             | Mouse Right Button      |
