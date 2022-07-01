@@ -20,6 +20,8 @@ Developed with Unity 2020.3.24f1.
 - Two guns are available, Pistol, AK-47 (have different attack range) and grenades with some pre-loaded bullets. To change between guns, use the scroller of your mouse.
 
 ## Game Features
+- User Interface
+   <img src="https://user-images.githubusercontent.com/101112022/176936728-722c1085-63b7-458e-b47d-6bc2da399cbf.png" style="width:500px"></img>
 * Game interface
   * **Player's HP** on the top left corner
   * The **message panel** on the bottom left corner, which shows status of other players (e.g. dead or respawn)
