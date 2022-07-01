@@ -13,4 +13,19 @@ Developed with Unity 2020.3.24f1.
 - Hunt down all the enemies in the terrain by finding them to win before timer ends.
 - Ammo pickups for guns and medikit pickup for the players health are available at certain places in the map.
 - Two guns are available, Pistol, Machine gun and grenades with some pre-loaded bullets. To change between guns, use the scroller of your mouse.
-- 
+
+## Controls ##
+
+| Action          | Desktop PC              |
+| --------------- | ----------------------- |
+| Move Forward    | W                       |
+| Move Left       | A                       |
+| Move Backward   | S                       |
+| Move Right      | D                       |
+| Run             | Left Shift(hold)        |
+| Shoot           | Mouse Left Button       |
+| Aim             | Mouse Right Button      |
+| Previous Weapon | Q *or* Mouse Wheel Up   |
+| Next Weapon     | Q *or* Mouse Wheel Down |
+| Reload          | R (when near ammo box)  |
+|Throw Grenade    |  G                      |
