@@ -8,11 +8,16 @@ The game is PC (can also be customizable and exported for other platforms). Open
 ###### Note 
 Developed with Unity 2020.3.24f1.
 
-## Playing guide
+## Game Logic and Functionality
 
 - Hunt down all the enemies in the terrain by finding them to win before timer ends.
+- The Enemies patrols at  waypoints until it detects the player as a target.
+- If the Player enters the enemies perspective, the enemies starts to chasing the player.
+- The Enemy starts shooting when it close enough to attack while chasing.
+- Enemies health will recharge after heeling time ..if left unattacked.
+- Headshot or Eyeshot will give extra damage to enemies.
 - Ammo pickups for guns and medikit pickup for the players health are available at certain places in the map.
-- Two guns are available, Pistol, Machine gun and grenades with some pre-loaded bullets. To change between guns, use the scroller of your mouse.
+- Two guns are available, Pistol, Machine gun (have different attack range) and grenades with some pre-loaded bullets. To change between guns, use the scroller of your mouse.
 
 ## Controls ##
 
@@ -28,4 +33,5 @@ Developed with Unity 2020.3.24f1.
 | Previous Weapon | Q *or* Mouse Wheel Up   |
 | Next Weapon     | Q *or* Mouse Wheel Down |
 | Reload          | R (when near ammo box)  |
+| Health Recharge |Capslock (near medikit)  |
 |Throw Grenade    |  G                      |
