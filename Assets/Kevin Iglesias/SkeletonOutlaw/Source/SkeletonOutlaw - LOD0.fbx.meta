@@ -1,0 +1,1234 @@
+fileFormatVersion: 2
+guid: 28b668865ad9a884395ab10f675feb53
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Axe00
+    100002: BoneJaw
+    100004: Boots
+    100006: MetalJaw
+    100008: ORG-chest
+    100010: ORG-f_index.01.L
+    100012: ORG-f_index.01.R
+    100014: ORG-f_index.02.L
+    100016: ORG-f_index.02.R
+    100018: ORG-f_index.03.L
+    100020: ORG-f_index.03.R
+    100022: ORG-f_middle.01.L
+    100024: ORG-f_middle.01.R
+    100026: ORG-f_middle.02.L
+    100028: ORG-f_middle.02.R
+    100030: ORG-f_middle.03.L
+    100032: ORG-f_middle.03.R
+    100034: ORG-f_pinky.01.L
+    100036: ORG-f_pinky.01.R
+    100038: ORG-f_pinky.02.L
+    100040: ORG-f_pinky.02.R
+    100042: ORG-f_pinky.03.L
+    100044: ORG-f_pinky.03.R
+    100046: ORG-f_ring.01.L
+    100048: ORG-f_ring.01.R
+    100050: ORG-f_ring.02.L
+    100052: ORG-f_ring.02.R
+    100054: ORG-f_ring.03.L
+    100056: ORG-f_ring.03.R
+    100058: ORG-foot.L
+    100060: ORG-foot.R
+    100062: ORG-forearm.L
+    100064: ORG-forearm.R
+    100066: ORG-hand.L
+    100068: ORG-hand.R
+    100070: ORG-head
+    100072: ORG-heel.L
+    100074: ORG-heel.R
+    100076: ORG-hips
+    100078: ORG-jaw
+    100080: ORG-neck
+    100082: ORG-palm.01.L
+    100084: ORG-palm.01.R
+    100086: ORG-palm.02.L
+    100088: ORG-palm.02.R
+    100090: ORG-palm.03.L
+    100092: ORG-palm.03.R
+    100094: ORG-palm.04.L
+    100096: ORG-palm.04.R
+    100098: ORG-sheath
+    100100: ORG-shin.L
+    100102: ORG-shin.R
+    100104: ORG-shoulder.L
+    100106: ORG-shoulder.R
+    100108: ORG-spine
+    100110: ORG-thigh.L
+    100112: ORG-thigh.R
+    100114: ORG-thumb.01.L
+    100116: ORG-thumb.01.R
+    100118: ORG-thumb.02.L
+    100120: ORG-thumb.02.R
+    100122: ORG-thumb.03.L
+    100124: ORG-thumb.03.R
+    100126: ORG-toe.L
+    100128: ORG-toe.R
+    100130: ORG-upper_arm.L
+    100132: ORG-upper_arm.R
+    100134: prop.L
+    100136: prop.R
+    100138: root
+    100140: SheathAndBelt
+    100142: Shoulder00
+    100144: Shoulder01
+    100146: //RootNode
+    100148: SkeletonBody
+    100150: SkeletonFeet
+    100152: SkeletonHair
+    100154: SkeletonOutlaw
+    100156: ORG-f_index_01_L
+    100158: ORG-f_index_01_R
+    100160: ORG-f_index_02_L
+    100162: ORG-f_index_02_R
+    100164: ORG-f_index_03_L
+    100166: ORG-f_index_03_R
+    100168: ORG-f_middle_01_L
+    100170: ORG-f_middle_01_R
+    100172: ORG-f_middle_02_L
+    100174: ORG-f_middle_02_R
+    100176: ORG-f_middle_03_L
+    100178: ORG-f_middle_03_R
+    100180: ORG-f_pinky_01_L
+    100182: ORG-f_pinky_01_R
+    100184: ORG-f_pinky_02_L
+    100186: ORG-f_pinky_02_R
+    100188: ORG-f_pinky_03_L
+    100190: ORG-f_pinky_03_R
+    100192: ORG-f_ring_01_L
+    100194: ORG-f_ring_01_R
+    100196: ORG-f_ring_02_L
+    100198: ORG-f_ring_02_R
+    100200: ORG-f_ring_03_L
+    100202: ORG-f_ring_03_R
+    100204: ORG-foot_L
+    100206: ORG-foot_R
+    100208: ORG-forearm_L
+    100210: ORG-forearm_R
+    100212: ORG-hand_L
+    100214: ORG-hand_R
+    100216: ORG-heel_L
+    100218: ORG-heel_R
+    100220: ORG-palm_01_L
+    100222: ORG-palm_01_R
+    100224: ORG-palm_02_L
+    100226: ORG-palm_02_R
+    100228: ORG-palm_03_L
+    100230: ORG-palm_03_R
+    100232: ORG-palm_04_L
+    100234: ORG-palm_04_R
+    100236: ORG-shin_L
+    100238: ORG-shin_R
+    100240: ORG-shoulder_L
+    100242: ORG-shoulder_R
+    100244: ORG-thigh_L
+    100246: ORG-thigh_R
+    100248: ORG-thumb_01_L
+    100250: ORG-thumb_01_R
+    100252: ORG-thumb_02_L
+    100254: ORG-thumb_02_R
+    100256: ORG-thumb_03_L
+    100258: ORG-thumb_03_R
+    100260: ORG-toe_L
+    100262: ORG-toe_R
+    100264: ORG-upper_arm_L
+    100266: ORG-upper_arm_R
+    100268: prop_L
+    100270: prop_R
+    100272: SkeletonOutlaw-Rig
+    400000: Axe00
+    400002: BoneJaw
+    400004: Boots
+    400006: MetalJaw
+    400008: ORG-chest
+    400010: ORG-f_index.01.L
+    400012: ORG-f_index.01.R
+    400014: ORG-f_index.02.L
+    400016: ORG-f_index.02.R
+    400018: ORG-f_index.03.L
+    400020: ORG-f_index.03.R
+    400022: ORG-f_middle.01.L
+    400024: ORG-f_middle.01.R
+    400026: ORG-f_middle.02.L
+    400028: ORG-f_middle.02.R
+    400030: ORG-f_middle.03.L
+    400032: ORG-f_middle.03.R
+    400034: ORG-f_pinky.01.L
+    400036: ORG-f_pinky.01.R
+    400038: ORG-f_pinky.02.L
+    400040: ORG-f_pinky.02.R
+    400042: ORG-f_pinky.03.L
+    400044: ORG-f_pinky.03.R
+    400046: ORG-f_ring.01.L
+    400048: ORG-f_ring.01.R
+    400050: ORG-f_ring.02.L
+    400052: ORG-f_ring.02.R
+    400054: ORG-f_ring.03.L
+    400056: ORG-f_ring.03.R
+    400058: ORG-foot.L
+    400060: ORG-foot.R
+    400062: ORG-forearm.L
+    400064: ORG-forearm.R
+    400066: ORG-hand.L
+    400068: ORG-hand.R
+    400070: ORG-head
+    400072: ORG-heel.L
+    400074: ORG-heel.R
+    400076: ORG-hips
+    400078: ORG-jaw
+    400080: ORG-neck
+    400082: ORG-palm.01.L
+    400084: ORG-palm.01.R
+    400086: ORG-palm.02.L
+    400088: ORG-palm.02.R
+    400090: ORG-palm.03.L
+    400092: ORG-palm.03.R
+    400094: ORG-palm.04.L
+    400096: ORG-palm.04.R
+    400098: ORG-sheath
+    400100: ORG-shin.L
+    400102: ORG-shin.R
+    400104: ORG-shoulder.L
+    400106: ORG-shoulder.R
+    400108: ORG-spine
+    400110: ORG-thigh.L
+    400112: ORG-thigh.R
+    400114: ORG-thumb.01.L
+    400116: ORG-thumb.01.R
+    400118: ORG-thumb.02.L
+    400120: ORG-thumb.02.R
+    400122: ORG-thumb.03.L
+    400124: ORG-thumb.03.R
+    400126: ORG-toe.L
+    400128: ORG-toe.R
+    400130: ORG-upper_arm.L
+    400132: ORG-upper_arm.R
+    400134: prop.L
+    400136: prop.R
+    400138: root
+    400140: SheathAndBelt
+    400142: Shoulder00
+    400144: Shoulder01
+    400146: //RootNode
+    400148: SkeletonBody
+    400150: SkeletonFeet
+    400152: SkeletonHair
+    400154: SkeletonOutlaw
+    400156: ORG-f_index_01_L
+    400158: ORG-f_index_01_R
+    400160: ORG-f_index_02_L
+    400162: ORG-f_index_02_R
+    400164: ORG-f_index_03_L
+    400166: ORG-f_index_03_R
+    400168: ORG-f_middle_01_L
+    400170: ORG-f_middle_01_R
+    400172: ORG-f_middle_02_L
+    400174: ORG-f_middle_02_R
+    400176: ORG-f_middle_03_L
+    400178: ORG-f_middle_03_R
+    400180: ORG-f_pinky_01_L
+    400182: ORG-f_pinky_01_R
+    400184: ORG-f_pinky_02_L
+    400186: ORG-f_pinky_02_R
+    400188: ORG-f_pinky_03_L
+    400190: ORG-f_pinky_03_R
+    400192: ORG-f_ring_01_L
+    400194: ORG-f_ring_01_R
+    400196: ORG-f_ring_02_L
+    400198: ORG-f_ring_02_R
+    400200: ORG-f_ring_03_L
+    400202: ORG-f_ring_03_R
+    400204: ORG-foot_L
+    400206: ORG-foot_R
+    400208: ORG-forearm_L
+    400210: ORG-forearm_R
+    400212: ORG-hand_L
+    400214: ORG-hand_R
+    400216: ORG-heel_L
+    400218: ORG-heel_R
+    400220: ORG-palm_01_L
+    400222: ORG-palm_01_R
+    400224: ORG-palm_02_L
+    400226: ORG-palm_02_R
+    400228: ORG-palm_03_L
+    400230: ORG-palm_03_R
+    400232: ORG-palm_04_L
+    400234: ORG-palm_04_R
+    400236: ORG-shin_L
+    400238: ORG-shin_R
+    400240: ORG-shoulder_L
+    400242: ORG-shoulder_R
+    400244: ORG-thigh_L
+    400246: ORG-thigh_R
+    400248: ORG-thumb_01_L
+    400250: ORG-thumb_01_R
+    400252: ORG-thumb_02_L
+    400254: ORG-thumb_02_R
+    400256: ORG-thumb_03_L
+    400258: ORG-thumb_03_R
+    400260: ORG-toe_L
+    400262: ORG-toe_R
+    400264: ORG-upper_arm_L
+    400266: ORG-upper_arm_R
+    400268: prop_L
+    400270: prop_R
+    400272: SkeletonOutlaw-Rig
+    2100000: Skeleton
+    2100002: Axes
+    2100004: Skeleton__Atlas_png
+    2100006: Axes__Untitled_001
+    2300000: Axe00
+    2300002: BoneJaw
+    2300004: MetalJaw
+    2300006: Shoulder00
+    2300008: Shoulder01
+    2300010: SkeletonHair
+    3300000: Axe00
+    3300002: BoneJaw
+    3300004: MetalJaw
+    3300006: Shoulder00
+    3300008: Shoulder01
+    3300010: SkeletonHair
+    4300000: SkeletonHair
+    4300002: MetalJaw
+    4300004: BoneJaw
+    4300006: Shoulder00
+    4300008: Shoulder01
+    4300010: Axe00
+    4300012: SkeletonFeet
+    4300014: Boots
+    4300016: SheathAndBelt
+    4300018: SkeletonBody
+    7400000: Scene
+    7400002: Default Take
+    9500000: //RootNode
+    13700000: Boots
+    13700002: SheathAndBelt
+    13700004: SkeletonBody
+    13700006: SkeletonFeet
+    13700008: Axe00
+    13700010: BoneJaw
+    13700012: MetalJaw
+    13700014: Shoulder00
+    13700016: Shoulder01
+    13700018: SkeletonHair
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
+      does not match position in animation file:\n\t'ORG-thigh_L' : position error
+      = 50.654953 mm\n\t'ORG-shin_L' : position error = 151.779602 mm\n\t'ORG-foot_L'
+      : position error = 143.517380 mm\n\t'ORG-toe_L' : position error = 52.487904
+      mm\n\t'ORG-thigh_R' : position error = 50.654972 mm\n\t'ORG-shin_R' : position
+      error = 151.779678 mm\n\t'ORG-foot_R' : position error = 143.517365 mm\n\t'ORG-toe_R'
+      : position error = 52.487957 mm\n"
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: ORG-hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-shin_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-shin_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-upper_arm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-upper_arm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-forearm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-forearm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-thumb_01_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-thumb_02_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-thumb_03_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_index_01_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_index_02_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_index_03_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_middle_01_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_middle_02_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_middle_03_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_ring_01_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_ring_02_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_ring_03_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_pinky_01_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_pinky_02_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_pinky_03_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-thumb_01_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-thumb_02_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-thumb_03_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_index_01_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_index_02_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_index_03_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_middle_01_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_middle_02_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_middle_03_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_ring_01_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_ring_02_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_ring_03_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_pinky_01_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_pinky_02_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG-f_pinky_03_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Skeleton Outlaw(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Axe00
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: 1.4855934, y: 0.08704667, z: 2.5235014}
+      rotation: {x: 0.7071067, y: -0.0000000639844, z: 0.00000008329781, w: 0.7071068}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000001}
+    - name: BoneJaw
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -6.21e-13, y: 0.0051863235, z: 2.8483536}
+      rotation: {x: 0.118452445, y: 1.2662555e-14, z: -8.339225e-15, w: 0.99295974}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999994}
+    - name: Boots
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -0, y: -0.000000007450581, z: -0.00000023841858}
+      rotation: {x: -0.026795441, y: 0, z: -0, w: 0.99964094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MetalJaw
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -1.65e-13, y: 0.0051863235, z: 2.8483534}
+      rotation: {x: -0.026795438, y: -3.085427e-15, z: 1.4450066e-15, w: 0.99964094}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999994}
+    - name: SheathAndBelt
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -0, y: -0.000000007450581, z: -0.00000023841858}
+      rotation: {x: -0.026795441, y: 0, z: -0, w: 0.99964094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder00
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -0.44884336, y: -0.028385343, z: 2.681048}
+      rotation: {x: 0.0009679702, y: 0.046393454, z: 0.9987081, w: -0.02070681}
+      scale: {x: 0.9999995, y: 1.0000007, z: 1.0000001}
+    - name: Shoulder01
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: 0.4457947, y: 0.023516985, z: 2.6686728}
+      rotation: {x: -0.030567123, y: 0.2820718, z: 0.95501846, w: -0.086260624}
+      scale: {x: 0.99999934, y: 1.0000006, z: 1.0000001}
+    - name: SkeletonBody
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -0, y: -0.37676793, z: 2.2045958}
+      rotation: {x: -0.026795441, y: 0, z: -0, w: 0.99964094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonFeet
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -0, y: -0.37676793, z: 2.2045958}
+      rotation: {x: -0.026795441, y: 0, z: -0, w: 0.99964094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonHair
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -3.3e-14, y: -0.0000003427267, z: 0.0000016689299}
+      rotation: {x: 0.0000000020954722, y: 0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999994}
+    - name: SkeletonOutlaw-Rig
+      parentName: Skeleton Outlaw(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root
+      parentName: SkeletonOutlaw-Rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.7071067, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG-hips
+      parentName: root
+      position: {x: -0.059112497, y: 0.000000004462875, z: 1.5988939}
+      rotation: {x: 0.00000013736701, y: 0.7102477, z: -0.00000008449432, w: 0.7039519}
+      scale: {x: 0.9999998, y: 1, z: 0.9999998}
+    - name: ORG-spine
+      parentName: ORG-hips
+      position: {x: -0.19208491, y: 0.000000014502024, z: 0.000000005587935}
+      rotation: {x: 6.7164807e-10, y: 0.008896892, z: -0.0000000021211892, w: 0.9999604}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: ORG-chest
+      parentName: ORG-spine
+      position: {x: -0.15198465, y: 0.000000011474511, z: -0.00000000372529}
+      rotation: {x: 0.0000000013609796, y: 0.018025989, z: -0.0000000042977333, w: 0.9998375}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: ORG-neck
+      parentName: ORG-chest
+      position: {x: -0.5784527, y: 0.000000043672017, z: -0.000000113621354}
+      rotation: {x: -0.00000008181224, y: 0.2151838, z: -0.00000004982308, w: 0.97657365}
+      scale: {x: 1.0000005, y: 1, z: 1.0000007}
+    - name: ORG-head
+      parentName: ORG-neck
+      position: {x: -0.23682323, y: 0.00000001787969, z: -0.000000059604645}
+      rotation: {x: -0.00000013502316, y: -0.26661557, z: 0.000000031783088, w: 0.963803}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999976}
+    - name: ORG-jaw
+      parentName: ORG-head
+      position: {x: -0.12510313, y: 0.000000009445017, z: -0.11381656}
+      rotation: {x: 0.00000051205467, y: 0.8842981, z: -0.0000008433318, w: 0.4669228}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: ORG-shoulder_L
+      parentName: ORG-chest
+      position: {x: -0.5826597, y: -0.07909527, z: -0.0075584073}
+      rotation: {x: 0.5505334, y: 0.4815567, z: -0.47137392, w: -0.4927705}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: ORG-upper_arm_L
+      parentName: ORG-shoulder_L
+      position: {x: -0.33121583, y: -0.0043025278, z: 0.03820383}
+      rotation: {x: 0.70513856, y: -0.06195534, z: -0.026007583, w: 0.70587873}
+      scale: {x: 1.0000005, y: 0.9999998, z: 0.99999934}
+    - name: ORG-forearm_L
+      parentName: ORG-upper_arm_L
+      position: {x: -0.47294, y: -0.000000061118044, z: 0.00000000372529}
+      rotation: {x: 0.0038115878, y: 0.028277328, z: 0.022814596, w: 0.9993325}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1}
+    - name: ORG-hand_L
+      parentName: ORG-forearm_L
+      position: {x: -0.4345351, y: -0.0000003035675, z: -0.000000007450581}
+      rotation: {x: 0.706795, y: 0.0105655845, z: -0.053626645, w: 0.7053038}
+      scale: {x: 0.9999996, y: 1.0000007, z: 1.0000005}
+    - name: ORG-palm_01_L
+      parentName: ORG-hand_L
+      position: {x: -0.08523671, y: 0.0446001, z: -0.021287428}
+      rotation: {x: -0.008873049, y: 0.0005117165, z: -0.16379963, w: 0.9864536}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: ORG-f_index_01_L
+      parentName: ORG-palm_01_L
+      position: {x: -0.13014437, y: -0.000000088941306, z: -0.00000017147977}
+      rotation: {x: 0.0018236145, y: 0.02545048, z: 0.09972147, w: 0.9946882}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1}
+    - name: ORG-f_index_02_L
+      parentName: ORG-f_index_01_L
+      position: {x: -0.080387965, y: 0.000000003259629, z: 0.000000027590431}
+      rotation: {x: 0.005134995, y: 0.0045586587, z: 0.028119178, w: 0.99958104}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: ORG-f_index_03_L
+      parentName: ORG-f_index_02_L
+      position: {x: -0.11440663, y: 0.000000033527613, z: -0.00000011641532}
+      rotation: {x: -0.0098739425, y: -0.00833315, z: 0.0049359016, w: 0.9999044}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: ORG-thumb_01_L
+      parentName: ORG-palm_01_L
+      position: {x: 0.04162184, y: -0.0067809094, z: 0.02609287}
+      rotation: {x: 0.41329774, y: -0.1538302, z: -0.30285653, w: 0.84486645}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: ORG-thumb_02_L
+      parentName: ORG-thumb_01_L
+      position: {x: -0.10473264, y: 0.00000018835999, z: 0.00000021234155}
+      rotation: {x: 0.05664183, y: 0.03930871, z: -0.0090204, w: 0.99757975}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: ORG-thumb_03_L
+      parentName: ORG-thumb_02_L
+      position: {x: -0.093922496, y: -0.00000027986243, z: -0.000000055879354}
+      rotation: {x: -0.018543564, y: 0.15471725, z: -0.037836064, w: 0.9870599}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: ORG-palm_02_L
+      parentName: ORG-hand_L
+      position: {x: -0.08937421, y: 0.018724628, z: -0.026229762}
+      rotation: {x: -0.00042780105, y: 0.012325955, z: -0.004858659, w: 0.99991214}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: ORG-f_middle_01_L
+      parentName: ORG-palm_02_L
+      position: {x: -0.1271741, y: 0.000000013504177, z: -0.00000035147605}
+      rotation: {x: 0.0057407403, y: 0.004377335, z: -0.0068935235, w: 0.99995023}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: ORG-f_middle_02_L
+      parentName: ORG-f_middle_01_L
+      position: {x: -0.087248035, y: -9.31323e-10, z: -0.0000001869339}
+      rotation: {x: -0.022646347, y: -0.014832325, z: -0.00011997503, w: 0.99963355}
+      scale: {x: 0.9999997, y: 1.0000001, z: 0.9999997}
+    - name: ORG-f_middle_03_L
+      parentName: ORG-f_middle_02_L
+      position: {x: -0.0893901, y: 0.000000009313226, z: 0.00000029307557}
+      rotation: {x: 0.005907056, y: 0.026546564, z: -0.0006773406, w: 0.9996299}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999997}
+    - name: ORG-palm_03_L
+      parentName: ORG-hand_L
+      position: {x: -0.08731805, y: -0.0053529334, z: -0.025201265}
+      rotation: {x: 0.008952633, y: 0.008006161, z: 0.16199797, w: 0.986718}
+      scale: {x: 0.9999996, y: 0.9999997, z: 0.99999976}
+    - name: ORG-f_ring_01_L
+      parentName: ORG-palm_03_L
+      position: {x: -0.11473647, y: 0.000000034458935, z: -0.000000252272}
+      rotation: {x: -0.008209646, y: 0.00046745484, z: -0.16730435, w: 0.9858711}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: ORG-f_ring_02_L
+      parentName: ORG-f_ring_01_L
+      position: {x: -0.091342464, y: 0.000000040978193, z: -0.000000007334165}
+      rotation: {x: -0.011300929, y: 0.03096845, z: -0.027321402, w: 0.99908304}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: ORG-f_ring_03_L
+      parentName: ORG-f_ring_02_L
+      position: {x: -0.07785539, y: 0.000000018626451, z: 0.0000002104789}
+      rotation: {x: -0.0012866058, y: 0.019485151, z: 0.009749061, w: 0.9997618}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: ORG-palm_04_L
+      parentName: ORG-hand_L
+      position: {x: -0.082388625, y: -0.028469047, z: -0.021189217}
+      rotation: {x: -0.0070093786, y: 0.06082513, z: 0.28256288, w: 0.95729274}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: ORG-f_pinky_01_L
+      parentName: ORG-palm_04_L
+      position: {x: -0.118181355, y: 0.000000024214387, z: 0.0000002454035}
+      rotation: {x: -0.004573358, y: -0.0553852, z: -0.2815924, w: 0.9579234}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: ORG-f_pinky_02_L
+      parentName: ORG-f_pinky_01_L
+      position: {x: -0.053958006, y: -0.00000000372529, z: 0.00000013643876}
+      rotation: {x: -0.050745647, y: -0.02762904, z: 0.029694656, w: 0.99788773}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: ORG-f_pinky_03_L
+      parentName: ORG-f_pinky_02_L
+      position: {x: -0.0753717, y: -0.000000029802322, z: -0.00000038556755}
+      rotation: {x: 0.009841106, y: 0.065753765, z: -0.017169114, w: 0.99763966}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prop_L
+      parentName: ORG-hand_L
+      position: {x: -0.14915214, y: -0.31567958, z: 0.094437696}
+      rotation: {x: 0.73028845, y: -0.68256426, z: -0.020168327, w: 0.019444557}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: ORG-shoulder_R
+      parentName: ORG-chest
+      position: {x: -0.58265966, y: 0.079095356, z: -0.0075584445}
+      rotation: {x: 0.55053324, y: -0.48155692, z: -0.47137377, w: 0.49277064}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: ORG-upper_arm_R
+      parentName: ORG-shoulder_R
+      position: {x: -0.3312157, y: 0.004302579, z: 0.038203843}
+      rotation: {x: -0.7051387, y: -0.0619547, z: 0.026007824, w: 0.70587873}
+      scale: {x: 1.0000006, y: 0.9999998, z: 0.9999994}
+    - name: ORG-forearm_R
+      parentName: ORG-upper_arm_R
+      position: {x: -0.47294006, y: 0.00000018597348, z: -0.000000007450581}
+      rotation: {x: -0.003811635, y: 0.028275026, z: -0.022814585, w: 0.99933255}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1}
+    - name: ORG-hand_R
+      parentName: ORG-forearm_R
+      position: {x: -0.43453506, y: 0.00000002879824, z: -0.000000001862645}
+      rotation: {x: -0.706795, y: 0.010566537, z: 0.053627495, w: 0.7053038}
+      scale: {x: 0.9999996, y: 1.0000007, z: 1.0000005}
+    - name: ORG-palm_01_R
+      parentName: ORG-hand_R
+      position: {x: -0.08523683, y: -0.044600103, z: -0.02128742}
+      rotation: {x: 0.008873059, y: 0.00051165355, z: 0.16379958, w: 0.9864536}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: ORG-f_index_01_R
+      parentName: ORG-palm_01_R
+      position: {x: -0.13014458, y: 0.0000001010485, z: -0.00000022893073}
+      rotation: {x: -0.0018236883, y: 0.025448868, z: -0.099722214, w: 0.99468815}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: ORG-f_index_02_R
+      parentName: ORG-f_index_01_R
+      position: {x: -0.080388, y: -0.0000000144355, z: 0.00000028579962}
+      rotation: {x: -0.0051349984, y: 0.0045586745, z: -0.02811918, w: 0.99958104}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: ORG-f_index_03_R
+      parentName: ORG-f_index_02_R
+      position: {x: -0.11440666, y: 0.000000014901161, z: -0.00000014086254}
+      rotation: {x: 0.009873938, y: -0.008333156, z: -0.0049358895, w: 0.9999044}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999998}
+    - name: ORG-thumb_01_R
+      parentName: ORG-palm_01_R
+      position: {x: 0.041621633, y: 0.006780981, z: 0.026092794}
+      rotation: {x: -0.41329834, y: -0.1538289, z: 0.3028563, w: 0.8448664}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: ORG-thumb_02_R
+      parentName: ORG-thumb_01_R
+      position: {x: -0.10473262, y: 0.000000003026798, z: 0.00000010058284}
+      rotation: {x: -0.056641642, y: 0.039307438, z: 0.009019195, w: 0.9975798}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: ORG-thumb_03_R
+      parentName: ORG-thumb_02_R
+      position: {x: -0.09392258, y: 0.000000006053597, z: -0.00000000372529}
+      rotation: {x: 0.018543603, y: 0.15471716, z: 0.037835985, w: 0.9870599}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: ORG-palm_02_R
+      parentName: ORG-hand_R
+      position: {x: -0.08937442, y: -0.018724607, z: -0.026229516}
+      rotation: {x: 0.00042803225, y: 0.012326627, z: 0.004858779, w: 0.99991214}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: ORG-f_middle_01_R
+      parentName: ORG-palm_02_R
+      position: {x: -0.12717415, y: -8.14907e-10, z: -0.000000055857527}
+      rotation: {x: -0.005740163, y: 0.004376971, z: 0.0068929275, w: 0.99995023}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: ORG-f_middle_02_R
+      parentName: ORG-f_middle_01_R
+      position: {x: -0.08724814, y: 0.000000002793968, z: 0.00000004595495}
+      rotation: {x: 0.022646343, y: -0.014832333, z: 0.00011997466, w: 0.99963355}
+      scale: {x: 0.9999997, y: 1, z: 0.9999997}
+    - name: ORG-f_middle_03_R
+      parentName: ORG-f_middle_02_R
+      position: {x: -0.08938991, y: 0.000000014901161, z: 0.000000081723556}
+      rotation: {x: -0.00590705, y: 0.026546387, z: 0.0006773441, w: 0.9996299}
+      scale: {x: 0.9999997, y: 1, z: 0.9999998}
+    - name: ORG-palm_03_R
+      parentName: ORG-hand_R
+      position: {x: -0.087318264, y: 0.005352966, z: -0.025201019}
+      rotation: {x: -0.008948997, y: 0.008007111, z: -0.16199851, w: 0.98671794}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: ORG-f_ring_01_R
+      parentName: ORG-palm_03_R
+      position: {x: -0.114736445, y: -0.000000006519258, z: -0.000000050640665}
+      rotation: {x: 0.008210309, y: 0.00046786456, z: 0.16730495, w: 0.98587096}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: ORG-f_ring_02_R
+      parentName: ORG-f_ring_01_R
+      position: {x: -0.091342136, y: 0, z: -0.000000063097104}
+      rotation: {x: 0.011300883, y: 0.030970369, z: 0.02732274, w: 0.99908286}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: ORG-f_ring_03_R
+      parentName: ORG-f_ring_02_R
+      position: {x: -0.07785523, y: 0.000000007450581, z: 0.0000002803281}
+      rotation: {x: 0.0012866054, y: 0.019485133, z: -0.009749068, w: 0.9997618}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: ORG-palm_04_R
+      parentName: ORG-hand_R
+      position: {x: -0.08238873, y: 0.02846909, z: -0.02118897}
+      rotation: {x: 0.0070094797, y: 0.0608266, z: -0.28256273, w: 0.95729274}
+      scale: {x: 0.9999991, y: 0.9999993, z: 0.99999934}
+    - name: ORG-f_pinky_01_R
+      parentName: ORG-palm_04_R
+      position: {x: -0.11818145, y: 0.000000007450581, z: 0.0000005918555}
+      rotation: {x: 0.004570764, y: -0.055380467, z: 0.2815924, w: 0.9579237}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: ORG-f_pinky_02_R
+      parentName: ORG-f_pinky_01_R
+      position: {x: -0.053957827, y: 0.000000020489097, z: -0.000000037252903}
+      rotation: {x: 0.050745543, y: -0.027631292, z: -0.02969566, w: 0.9978876}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: ORG-f_pinky_03_R
+      parentName: ORG-f_pinky_02_R
+      position: {x: -0.07537165, y: 0.000000074505806, z: -0.00000000372529}
+      rotation: {x: -0.009841078, y: 0.06575358, z: 0.017169148, w: 0.99763966}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: prop_R
+      parentName: ORG-hand_R
+      position: {x: -0.1491522, y: 0.31567958, z: 0.0944377}
+      rotation: {x: 0.7302886, y: 0.68256414, z: -0.020168325, w: -0.019444562}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: ORG-thigh_L
+      parentName: ORG-hips
+      position: {x: 0.06975265, y: -0.2208623, z: 0.00062106695}
+      rotation: {x: 0.008646086, y: 0.9998651, z: -0.0007987628, w: 0.013941738}
+      scale: {x: 0.999996, y: 0.9991249, z: 0.9995676}
+    - name: ORG-shin_L
+      parentName: ORG-thigh_L
+      position: {x: -0.6940013, y: 0.00000003201785, z: 0.00000000197906}
+      rotation: {x: 0.00026315075, y: 0.0075995754, z: -0.009242752, w: 0.9999284}
+      scale: {x: 1.0000464, y: 0.999928, z: 0.999951}
+    - name: ORG-foot_L
+      parentName: ORG-shin_L
+      position: {x: -0.6562216, y: 0.000000033393007, z: 0.000000002328306}
+      rotation: {x: -0.012518582, y: -0.4205384, z: 0.02562957, w: 0.90682626}
+      scale: {x: 1.0000411, y: 1.0010546, z: 1.0003276}
+    - name: ORG-toe_L
+      parentName: ORG-foot_L
+      position: {x: -0.23996568, y: -0.000000001571607, z: 6.69388e-10}
+      rotation: {x: 0.9344047, y: -0.0045558624, z: 0.35583812, w: 0.015697854}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: ORG-heel_L
+      parentName: ORG-shin_L
+      position: {x: -0.6562216, y: 0.000000033393007, z: 0.000000002328306}
+      rotation: {x: 0.93295276, y: -0.030126251, z: -0.3586674, w: 0.00702448}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: ORG-thigh_R
+      parentName: ORG-hips
+      position: {x: 0.069752686, y: 0.22086233, z: 0.00062096905}
+      rotation: {x: -0.008645929, y: 0.9998651, z: 0.0007989251, w: 0.013941737}
+      scale: {x: 0.999996, y: 0.9991245, z: 0.9995676}
+    - name: ORG-shin_R
+      parentName: ORG-thigh_R
+      position: {x: -0.6940015, y: 0.000000050871677, z: -0.000000002299203}
+      rotation: {x: -0.00026313605, y: 0.0075997314, z: 0.009242735, w: 0.9999284}
+      scale: {x: 1.0000464, y: 0.99992806, z: 0.99995106}
+    - name: ORG-foot_R
+      parentName: ORG-shin_R
+      position: {x: -0.65622145, y: 0.00000008018105, z: -0.00000000646105}
+      rotation: {x: 0.01251909, y: -0.42053843, z: -0.025629267, w: 0.90682626}
+      scale: {x: 1.0000409, y: 1.0010549, z: 1.0003277}
+    - name: ORG-toe_R
+      parentName: ORG-foot_R
+      position: {x: -0.23996572, y: 0.000000017695129, z: -0.000000016880222}
+      rotation: {x: 0.93440473, y: 0.0045557753, z: 0.35583806, w: -0.01569793}
+      scale: {x: 0.99999946, y: 0.99999994, z: 0.99999994}
+    - name: ORG-heel_R
+      parentName: ORG-shin_R
+      position: {x: -0.65622145, y: 0.00000008018105, z: -0.00000000646105}
+      rotation: {x: 0.9329527, y: 0.030126162, z: -0.35866746, w: -0.0070244013}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG-sheath
+      parentName: ORG-hips
+      position: {x: -0.1760883, y: -0.3734809, z: 0.12761141}
+      rotation: {x: 0.046437584, y: 0.9905813, z: -0.046027374, w: -0.120307185}
+      scale: {x: 1, y: 1.0000006, z: 1.0000027}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
