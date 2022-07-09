@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 6c823a569ab4348479597ed4693bc618
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: Roundabout_Continuation
+    100004: Tunnel
+    100006: Wall_A
+    100008: Wall_A_Roundabout
+    100010: Wall_B
+    100012: Wall_B_Roundabout
+    100014: Wall_C
+    100016: //RootNode
+    100018: Walls
+    100020: Dungeon_Tunnel_A
+    100022: Sewer_Tunnel_A
+    100024: Sewer_Tunnel_B
+    100026: Sewer_Tunnel_C
+    100028: Tunnel_Grate
+    100030: Tunnel_Grate 1
+    100032: Wall_B 1
+    100034: Wall_D
+    100036: Wall_E
+    100038: Wall_E 1
+    100040: Wall_D 1
+    100042: Wall_D_Collider
+    100044: Wall_E_Collider
+    100046: Wall_A_Corner
+    100048: Wall_B_Corner
+    400000: Ceiling
+    400002: Roundabout_Continuation
+    400004: Tunnel
+    400006: Wall_A
+    400008: Wall_A_Roundabout
+    400010: Wall_B
+    400012: Wall_B_Roundabout
+    400014: Wall_C
+    400016: //RootNode
+    400018: Walls
+    400020: Dungeon_Tunnel_A
+    400022: Sewer_Tunnel_A
+    400024: Sewer_Tunnel_B
+    400026: Sewer_Tunnel_C
+    400028: Tunnel_Grate
+    400030: Tunnel_Grate 1
+    400032: Wall_B 1
+    400034: Wall_D
+    400036: Wall_E
+    400038: Wall_E 1
+    400040: Wall_D 1
+    400042: Wall_D_Collider
+    400044: Wall_E_Collider
+    400046: Wall_A_Corner
+    400048: Wall_B_Corner
+    2300000: Ceiling
+    2300002: Roundabout_Continuation
+    2300004: Tunnel
+    2300006: Wall_A
+    2300008: Wall_A_Roundabout
+    2300010: Wall_B
+    2300012: Wall_B_Roundabout
+    2300014: Wall_C
+    2300016: Dungeon_Tunnel_A
+    2300018: Sewer_Tunnel_A
+    2300020: Sewer_Tunnel_B
+    2300022: Sewer_Tunnel_C
+    2300024: Tunnel_Grate
+    2300026: Tunnel_Grate 1
+    2300028: Wall_B 1
+    2300030: Wall_D
+    2300032: Wall_E 1
+    2300034: Wall_D 1
+    2300036: Wall_D_Collider
+    2300038: Wall_E_Collider
+    2300040: Wall_A_Corner
+    2300042: Wall_B_Corner
+    3300000: Ceiling
+    3300002: Roundabout_Continuation
+    3300004: Tunnel
+    3300006: Wall_A
+    3300008: Wall_A_Roundabout
+    3300010: Wall_B
+    3300012: Wall_B_Roundabout
+    3300014: Wall_C
+    3300016: Dungeon_Tunnel_A
+    3300018: Sewer_Tunnel_A
+    3300020: Sewer_Tunnel_B
+    3300022: Sewer_Tunnel_C
+    3300024: Tunnel_Grate
+    3300026: Tunnel_Grate 1
+    3300028: Wall_B 1
+    3300030: Wall_D
+    3300032: Wall_E 1
+    3300034: Wall_D 1
+    3300036: Wall_D_Collider
+    3300038: Wall_E_Collider
+    3300040: Wall_A_Corner
+    3300042: Wall_B_Corner
+    4300000: Ceiling
+    4300002: Tunnel
+    4300004: Roundabout_Continuation
+    4300006: Wall_B_Roundabout
+    4300008: Wall_A_Roundabout
+    4300010: Wall_C
+    4300012: Wall_B
+    4300014: Wall_A
+    4300016: Tunnel_Grate
+    4300018: Wall_D
+    4300020: Wall_E
+    4300022: Tunnel_Grate
+    4300024: Dungeon_Tunnel_A
+    4300026: Sewer_Tunnel_A
+    4300028: Sewer_Tunnel_B
+    4300030: Sewer_Tunnel_C
+    4300032: Wall_E_Collider
+    4300034: Wall_D_Collider
+    4300036: Wall_A_Corner
+    4300038: Wall_B_Corner
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

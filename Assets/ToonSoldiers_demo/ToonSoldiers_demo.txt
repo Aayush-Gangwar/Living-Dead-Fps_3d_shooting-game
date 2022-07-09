@@ -1,0 +1,10 @@
+This is the demo pack of the ToonSoldiers asset:
+
+http://u3d.as/mYK
+
+ToonSoldiers pack includes:
+Four different character models (Infantry, Scout, Heavy Gunner, Sniper)
+Full range of weapons and its animations (Assault Rifle, Machinegun, Sniper Rifle, SubmachineGun, Knife, Shotgun, Handgun and Rocket Launcher)
+Six colour skins for each character  (Blue, Red, White, Green, Yellow and Black)
+
+Lots of animations
