@@ -8,8 +8,8 @@ The game is PC (can also be customizable and exported for other platforms). Open
 ###### Note 
 Developed with Unity 2020.3.24f1.
 
-## Demo
-[Demo video](https://www.youtube.com/watch?v=CN26WMw0it8)
+## Gameplay
+[Gameplay](https://youtu.be/OXOc9LtWYlw)
 
 ## Game Logic and Functionality
 
