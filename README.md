@@ -9,7 +9,7 @@ The game is PC (can also be customizable and exported for other platforms). Open
 Developed with Unity 2020.3.24f1.
 
 ## Gameplay
-[Gameplay](https://youtu.be/OXOc9LtWYlw)
+[Gameplay](https://www.youtube.com/watch?v=Xocj5toyDDg)
 
 ## Game Logic and Functionality
 
