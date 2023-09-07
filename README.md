@@ -1,4 +1,6 @@
 # Living Dead
+Game link : https://aayush21.itch.io/living-dead
+
 A Unity based First Person Shooter game with Normal and Zombie modes built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in an FPS with available item pick-ups. Enemies use AI navigation and precise pathfinding to chase down the player.
 
 Implemented my algorithms for AI pathfinding, navigation, raycasting, and other mechanics. Online free assets were mostly used excluding some which've been self-designed customly.
